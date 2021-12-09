@@ -8,4 +8,4 @@ Sends not found html if file does not exist.
 Implements HEAD, GET, DELETE and JOKE requests.  
 
 Run: java WebServerMain  
-Usage: java WebServerMain <document_root> </port>
+Usage: java WebServerMain /document_root/ /port/
